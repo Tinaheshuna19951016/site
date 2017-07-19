@@ -1,0 +1,80 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1500464627788">
+  <folder name="css">
+    <file name="site_global.css" crc="3901545875"/>
+    <file name="master_a-master.css" crc="122648870" ref="index:列表:购物车:分类:详情"/>
+    <file name="index.css" crc="363786164" ref="index"/>
+    <file name="__1.css" crc="388719848" ref="列表"/>
+    <file name="___.css" crc="388719848" ref="购物车"/>
+    <file name="__.css" crc="409357917" ref="分类"/>
+    <file name="__2.css" crc="388719848" ref="详情"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:分类:列表:详情:购物车"/>
+    <file name="museutils.js" crc="4216313831" ref="index:分类:列表:详情:购物车"/>
+    <file name="whatinput.js" crc="86476730" ref="index:分类:列表:详情:购物车"/>
+    <file name="museconfig.js" crc="474374037" ref="index:分类:列表:详情:购物车"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:分类:列表:详情:购物车"/>
+    <file name="webpro.js" crc="4143865194" ref="index:分类"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:分类"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:分类"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:分类"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:分类:列表:详情:购物车"/>
+  </folder>
+  <folder name="images">
+    <file name="nick-hillier-215633.jpg" crc="327905707" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-355692.jpg" crc="425167222" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fashion-person-woman-taking-photo.jpg" crc="4049764784" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-204954.jpg" crc="3881132458" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-295821.jpg" crc="3967207435" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prasanna-kumar-218701.jpg" crc="294694144" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-338368.jpg" crc="4076441604" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="捕获.jpg" crc="296540162" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-129426.jpg" crc="197401528" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-507249.jpg" crc="4294877186" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pexels-photo-507717.jpg" crc="3856134081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="girl-people-landscape-sun-38554.jpg" crc="374499878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prasanna-kumar-2187012.jpg" crc="4179160329" ref="分类">
+      <caption webpage="分类" alt=""/>
+    </file>
+    <file name="pexels-photo-478930.jpg" crc="409724838" ref="分类">
+      <caption webpage="分类" alt=""/>
+    </file>
+    <file name="pexels-photo-2958212.jpg" crc="35474687" ref="分类">
+      <caption webpage="分类" alt=""/>
+    </file>
+    <file name="pexels-photo-481098.jpg" crc="93168579" ref="分类">
+      <caption webpage="分类" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="60795625" seo="true" mt="1500459712396" redirect="true"/>
+  <file name="分类.html" crc="4072404537" seo="true" mt="1500464626373" redirect="true"/>
+  <file name="列表.html" crc="4240209491" seo="true" mt="1500456330062" redirect="true"/>
+  <file name="详情.html" crc="4165668259" seo="true" mt="1500456330062" redirect="true"/>
+  <file name="购物车.html" crc="53015600" seo="true" mt="1500456330062" redirect="true"/>
+</manifest>
